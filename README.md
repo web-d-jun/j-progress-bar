@@ -6,7 +6,7 @@ J Progress Bar
 
 ```jsx
 function test() {
-    return 'test
+    return 'test'
 }
 ```
 
