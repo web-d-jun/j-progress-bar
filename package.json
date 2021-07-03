@@ -1,5 +1,5 @@
 {
-  "name": "j-progress-bar",
+  "name": "@web-d-jun/j-progress-bar",
   "version": "0.0.1",
   "description": "vue progress bar",
   "main": "index.ts",
