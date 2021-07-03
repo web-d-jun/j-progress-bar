@@ -11,7 +11,11 @@
     "url": "git+https://github.com/web-d-jun/j-progress-bar.git"
   },
   "keywords": [
-    "progressbar"
+    "progressbar",
+    "progress-bar",
+    "vue-progress-bar",
+    "vuejs",
+    "vue"
   ],
   "author": "web-d-jun",
   "license": "ISC",
