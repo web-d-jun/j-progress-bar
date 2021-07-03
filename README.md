@@ -1,5 +1,4 @@
-# j-progress-bar
+#Install
 
-`This is a code block.`
-
+    npm i j-progress-bar
     
